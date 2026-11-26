@@ -1,0 +1,10 @@
+{
+  "description": "Discover summer holiday destinations, plan memorable trips, and find inspiration for a relaxing getaway.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
